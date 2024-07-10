@@ -1,6 +1,5 @@
 # blumgg
 
-telegram @k1raxth
 
 
 
