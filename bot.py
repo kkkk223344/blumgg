@@ -22,12 +22,12 @@ merahhijau = '\033[1;91m\033[42m'
 
 def anjaymabar():
     print(f"""{hijau}
-  {hijau} k1raxthbot {reset}
+  {hijau} bloomxthbot {reset}
     """)
 
 anjaymabar()
-print(f" {putihmerah}By: K1raxth{reset}")
-print(f" {putihhijau}Contact me on telegram: @k1raxth{reset}")
+print(f" {putihmerah}By: pthxth{reset}")
+print(f" {putihhijau}Contact me on INSTAGRAM: @pthxth{reset}")
 
 print()
 print(colored("  ...:::: CHOOSE LANGUAGE ::::...", 'light_cyan'))
@@ -51,7 +51,7 @@ if language_choice == 1:
     pause_message = f"{biru} Bot paused...\n{putih} Press {kuning}'K'{putih} again on the keyboard to continue{reset}"
     continue_message = f"{biru} Bot continue working...{reset}"
 elif language_choice == 2:
-    print(colored(" WHOEVER MOVES FIRST IS GAY ", 'light_cyan'))
+    print(colored(" EL QUE SE MUEVE PRIMERO ES GAY ", 'light_cyan'))
 
 def click(x, y):
     mouse.position = (x, y + random.randint(1, 3))
